@@ -1,0 +1,14 @@
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\bin\Debug\netcoreapp2.1\WebApiWithSwagger.deps.json
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\bin\Debug\netcoreapp2.1\WebApiWithSwagger.runtimeconfig.json
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\bin\Debug\netcoreapp2.1\WebApiWithSwagger.runtimeconfig.dev.json
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\bin\Debug\netcoreapp2.1\WebApiWithSwagger.dll
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\bin\Debug\netcoreapp2.1\WebApiWithSwagger.pdb
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.csprojAssemblyReference.cache
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.RazorAssemblyInfo.cache
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.RazorAssemblyInfo.cs
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.AssemblyInfoInputs.cache
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.AssemblyInfo.cs
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.dll
+C:\Users\thiag\Source\Repos\Articles\WebApiWithSwagger\WebApiWithSwagger\obj\Debug\netcoreapp2.1\WebApiWithSwagger.pdb
